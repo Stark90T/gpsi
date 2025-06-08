@@ -14,3 +14,8 @@ label, input, textarea, button { display: block; width: 100%; margin-bottom: 15p
 input, textarea { padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
 button { background: #005599; color: #fff; border: none; padding: 12px; cursor: pointer; border-radius: 4px; }
 button:hover { background: #003366; }
+.logo img {
+  max-height: 60px;
+  margin: 10px auto;
+  display: block;
+}
